@@ -1,5 +1,7 @@
 # chatappui
 
+![Screenshot (571)](https://user-images.githubusercontent.com/80529211/129316664-0bb48a52-9930-413e-ba1d-904bd92d2ab5.png)
+
 A new Flutter application.
 
 ## Getting Started
